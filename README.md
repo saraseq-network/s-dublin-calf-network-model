@@ -9,9 +9,7 @@ The model integrates:
 - carrier dynamics
 - targeted biosecurity interventions
 
-The model was developed as part of the PhD dissertation of  
-**Sara C. Sequeira**  
-The Ohio State University.
+The model was developed as part of the PhD dissertation of **Sara C. Sequeira** at The Ohio State University.
 
 ---
 
