@@ -57,10 +57,12 @@ salmonella-dublin-calf-network-model/
 ```
 
 ## Data availability
+The zip-level cattle population dataset (`zip_herd_sizes_us.csv`) was derived from
+publicly available USDA NASS data. Suppressed values were imputed as described in
+the dissertation methods.
 
-Raw livestock movement data cannot be publicly shared yet due to data-use agreements.
-
-Example input files are provided to illustrate the model structure and allow code execution.
+Raw livestock movement data cannot be publicly shared due to data-use agreements.
+Example movement inputs are provided to demonstrate the model workflow.
 
 ---
 
