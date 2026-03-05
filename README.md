@@ -40,8 +40,7 @@ salmonella-dublin-calf-network-model/
 ├── scripts/
 │   ├── 00_make_example_data.R # generates example dataset so repo runs out-of-the-box
 │   ├── 01_run_simulation.R    # loads example data and runs baseline scenarios
-│   ├── 02_calibration_beta.R  # model calibration procedures
-│   └── 03_figures_results.R   # code used to generate figures
+│   └── 02_figures_results.R   # code used to generate figures
 │
 ├── data_example/
 │   ├── movement_data.csv
